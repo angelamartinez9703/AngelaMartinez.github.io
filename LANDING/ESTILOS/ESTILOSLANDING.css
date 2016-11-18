@@ -1,0 +1,24 @@
+.tituloarriba {font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+color: #008F30;
+font-size:34px;
+}
+
+.tituloscajas {font-family:"Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif,Baskerville,  ;
+color: #FFFFFF;
+font-size:20px;
+}
+
+.NUMERALES {font-family:"Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif,Baskerville,  ;
+color: #005B03;
+font-size:20px;
+}
+
+.textos { font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+color: #003900;
+font-size:15px;
+}
+
+.footer { font-family:"Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+color: #01D100;
+font-size:15px;
+}

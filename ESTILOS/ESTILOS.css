@@ -1,0 +1,86 @@
+.titulo1 { font-family:"Queen of Heaven", Candara, "Candara Bold", Bebas, ;
+color:#FFFFFF;
+font-size: 30px;
+}
+
+.titulo2 {
+	font-family: Bebas, "Queen of Heaven", Candara, "Candara Bold",;
+	color: #FFFFFF;
+	font-size: 25px;
+	text-align: center;
+	font-style: 16;
+}
+
+.texto1 { font-family:Candara, Bebas,"Queen of Heaven", "Candara Bold", ;
+color:#FFFFFF;
+font-size: 20px;
+}
+
+.texto2color { font-family:Candara, Bebas,"Queen of Heaven", "Candara Bold", ;
+color:#FFFFFF;
+font-size: 20px;
+}
+
+.footer { font-family:Candara, Bebas,"Queen of Heaven","Candara Bold", ;
+color:#FFFFFF;
+font-size: 15px;
+}
+.fraseshome {
+	font-family:Bebas, "Queen of Heaven",Candara,"Candara Bold",;
+	color: #FFFFFF;
+	font-size: 38px;
+	text-align: center;
+}
+.autorhome {
+	font-family:"Queen of Heaven", Bebas,Candara,"Candara Bold",;
+	color: #FFFFFF;
+	font-size: 38px;
+	text-align: center;
+}
+.textoctacv {
+	font-family: Bebas, "Queen of Heaven", Candara, "Candara Bold",;
+	color: #FFFFFF;
+	font-size: 20px;
+	text-align: center;
+}
+.IMUTEXTO {
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	color: #FFFFFF;
+	font-size: 32px;
+	text-align: center;
+}
+.IMUINTERROACION {
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	color: #000000;
+	font-size: 38px;
+	text-align: center;
+}
+.texto2cursiva { font-family:"Queen of Heaven", "Candara Bold",Candara, Bebas ;
+color:#FFFFFF;
+font-size: 24px;
+}
+.titulolinio {
+	font-family: "Queen of Heaven", Candara, "Candara Bold",;
+	color: #FF9C00;
+	font-size: 28px;
+	text-align: center;
+}
+.titulomc {
+	font-family: "Queen of Heaven", Candara, "Candara Bold",;
+	color: #FF0004;
+	font-size: 28px;
+	text-align: center;
+}
+.tituloenforrate {
+	font-family: "Queen of Heaven", Candara, "Candara Bold",;
+	color: #00FF08;
+	font-size: 28px;
+	text-align: center;
+}
+.explicacionvideo {
+	font-family: Bebas, "Queen of Heaven", Candara, "Candara Bold",;
+	color: #FFFFFF;
+	font-size: 20px;
+	text-align: center;
+	font-style: 16;
+}
